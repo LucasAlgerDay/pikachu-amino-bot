@@ -1,0 +1,14 @@
+{
+    "welcome": "",
+    "prefix": "/",
+    "welcome_chat": "",
+    "locked_command": [],
+    "favorite_users": [],
+    "favorite_chats": [
+        "48756fa5-ba6c-4b24-88e7-47ef60103898"
+    ],
+    "banned_words": [
+        "sex",
+        "chutiya"
+    ]
+}

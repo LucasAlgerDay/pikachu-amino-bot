@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "botamino"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+gTTS = "^2.2.3"
+axju-jokes = "^1.0.3"
+yt-dlp = "^2021.12.1"
+JSON_minify = "^0.3.0"
+Flask = "^2.0.2"
+websocket = "^0.2.1"
+bs4 = "^0.0.1"
+PySocks = "^1.7.1"
+socks = "^0"
+names = "^0.3.0"
+ujson = "^5.3.0"
+pytz = "^2022.1"
+pymongo = "^4.2.0"
+easy-pil = "^0.1.9"
+dnspython = "^2.2.1"
+urllib3 = "^1.26.12"
+requests = "^2.28.1"
+python-dateutil = "^2.8.2"
+"amino.fix" = "^2.3.4"
+openai = "^0.26.1"
+youtube-search = "^2.1.2"
+httpx = "^0.23.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
